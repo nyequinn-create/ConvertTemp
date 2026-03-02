@@ -1,2 +1,3 @@
 # ConvertTemp
-converting temperate form a txt file
+This project converts temperature from a text file from Fahreneit to Celsius. 
+I think I did a good job in writing and structing code that is easy to read.  I think this project  is very scalible and could benifit from being ut into a class.  The construtor could take in the file name and read the file.  Then the code file could be outputed with a function.  The most challengeing part was learning the methods used to detemine if the file  was loaded  properly and learning the commands for ifstream and outstream as I havent worked with those libaries before. Refernecing the textbook and the wiki guided me through this. I think reading and writing files is very important and something that is going to be benifical in the future. I made it maintainable and adaptable using functions and OOP practices.
